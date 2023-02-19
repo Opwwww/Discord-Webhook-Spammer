@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 import requests
 #Put your webhook here
-webhook = ""
+webhook = "Webhook here"
 #Username of the webhook
 user = "nigger"
 #Message of ther webhook
